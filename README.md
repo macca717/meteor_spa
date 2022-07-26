@@ -1,6 +1,6 @@
 # Meteor SPA
 
-Single Page Apilcation frontend for Meteor weather backend
+Single Page Application frontend for Meteor weather backend
 
 ## Screenshots
 
