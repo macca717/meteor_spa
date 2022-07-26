@@ -1,0 +1,12 @@
+# Folders to ignore
+elm-stuff
+node_modules
+public/dist/elm.compiled.js
+src/Spa/Generated
+scripts
+
+# MacOS weird stuff
+.DS_Store
+
+#IDE's
+.vscode/
