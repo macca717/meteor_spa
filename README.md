@@ -1,6 +1,6 @@
 # Meteor SPA
 
-Single Page Application frontend for Meteor weather backend.
+Single Page Application for the [Meteor](https://github.com/macca717/meteor_api) weather API.
 
 ## Screenshots
 ### Home
@@ -12,6 +12,22 @@ Single Page Application frontend for Meteor weather backend.
 ### Isobaric Maps
 ![Isobaric](./docs/iso.png)
 
+## Development
+
+Start a development server and file watcher;
+```
+npm run start
+```
+
+## Deployment
+
+Compile the Elm runtime;
+```
+npm run build
+```
+
+The public folder must be statically served by a web server(Nginx, Apache etc).
+
 ## TODO
 
-- The API server address is hardcoded
+- The API server address is hard-coded
